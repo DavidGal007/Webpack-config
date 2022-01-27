@@ -1,0 +1,19 @@
+@import 'root.scss';
+
+body {
+    background: $color;
+}
+
+.bg {
+    background-image: url("../images/bg.jpg");
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

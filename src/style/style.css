@@ -1,0 +1,14 @@
+@import 'main.scss';
+@import 'root.scss';
+body {
+    margin: 0
+    
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+h1 {
+    color: wheat;
+}
